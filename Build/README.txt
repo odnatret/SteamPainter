@@ -10,6 +10,8 @@ Rus:
 1. Cоздайте ярлык для файла forAutomaticStart.exe. 
 2. Нажмите win+r и введите shell:startup, скопируйте ярлык в эту папку.
 
+Для того, чтобы добавить собственные рисунки, создавайте файл расширения .txt и добавьте со следующим порядковым номером.
+
 Eng:
 For the program to work correctly, you first need to create a cookie to log into your Steam account.
 1. Run Settings.exe, enter your login and password.
@@ -21,3 +23,5 @@ For the program to work correctly, you first need to create a cookie to log into
 To automatically change the picture when the system starts:
 1. Create a shortcut for the forAutomaticStart.exe file.
 2. Press win+r and enter shell:startup, copy the shortcut to this folder.
+
+To add your own images, create a .txt file and add it with the next serial number.
